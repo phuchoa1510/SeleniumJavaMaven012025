@@ -1,4 +1,4 @@
-package test;
+package com.anhtester.Bai4_TestSelenium;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
