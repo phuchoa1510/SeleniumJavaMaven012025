@@ -21,6 +21,6 @@ public class TestAutomation {
         driver.findElement(By.xpath("//a[@id='btn-login']")).click();
 
         //Tắt browser
-
+        driver.quit();
     }
 }
